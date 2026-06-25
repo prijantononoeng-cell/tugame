@@ -1,0 +1,6 @@
+{
+  "name": "Tugas-Me",
+  "description": "Aplikasi pengumpulan dan penilaian tugas online untuk guru dan siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
